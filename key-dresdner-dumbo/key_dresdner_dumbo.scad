@@ -1,12 +1,12 @@
 function amount(number) = number >= 0 ? number : -1 * number;
 
-thickness = 1.2;
+thickness = 2;
 
 width_key_lower = 13.5;
-height_key_lower = 3.5;
+height_key_lower = 2.5;
 
-width_indent = 5;
-height_indent = 2.5;
+width_indent = 5.5;
+height_indent = 2;
 offset_indent = height_indent / 2;
 
 width_key_middle = 10;
